@@ -57,6 +57,9 @@
   - Game designed for both Command Line mode and Online mode
   - Used template package uses the Maven software project
   - UML diagram png file listed.
+ 
+- BCSWomen Lovelace Colloquium 2020 Conference Abstract book:
+  - Abstract book page 45-46: Bokyung
 
 # Contact
 + Created by [@Bokyung Estelle-Lee](https://github.com/Estelle-Lee/) - feel free to contact me!
